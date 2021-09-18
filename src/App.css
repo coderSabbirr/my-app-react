@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+
+.mystyle {
+background-color: #83d9f1;
+border: 2px solid blueviolet;
+padding: 10px;
+margin: 10px;
+border-radius: 10px;
+}
+.mystyle p{
+  color: rgb(214, 16, 115);
+  font-weight: 500;
+}
